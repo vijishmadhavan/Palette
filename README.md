@@ -20,4 +20,4 @@
 
 - Draw outline on the input image
 
-<p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/download%20(3)-side.png"/></p>
+<p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/download%20(10).png"/></p>
