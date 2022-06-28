@@ -16,7 +16,7 @@
 - 
 - Fill the contour area to avoid unwant noise and create final mask. Or use pretrained models to generate mask(DeepLabv3)
 
-<p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/download%20(3).png"/></p>
+<p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/download%20(3)-side.png"/></p>
 
 
 - Draw outline on the input image
