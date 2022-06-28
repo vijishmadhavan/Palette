@@ -1,7 +1,7 @@
 # Palette
 
 - The code takes the object image as input.
-<p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/michh.png"/></p>
+<p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/flying-peacock-fb1__700.jpeg"/></p>
 
 - Using canny detect edges
 - Morphology close method on the canny for closing small holes inside the foreground.
