@@ -12,6 +12,9 @@
 <p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/download%20(5).png"/></p>
 
 - Find contour of the Morphology image and fill it with white colour.
+
+<p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/download%20(3).png"/></p>
+
 - Find the biggest contour.
 - Fill the contour area to avoid unwant noise and create final mask. 
 - Draw outline on the input image
