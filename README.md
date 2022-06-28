@@ -28,3 +28,9 @@
 - Remove background get the object and generate color palette using extcolors package.
 
 <p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/aaaa.jpg"/></p>
+
+
+## Acknowledgements
+
+- [Image Color Extraction with Python](https://towardsdatascience.com/image-color-extraction-with-python-in-4-steps-8d9370d9216e)
+- [DeepLabV3Plus](https://github.com/VainF/DeepLabV3Plus-Pytorch)
