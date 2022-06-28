@@ -9,7 +9,7 @@
 
 - Morphology close method on the canny for closing small holes inside the foreground.
 
-<p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/download%20(4).png"/></p>
+<p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/download%20(5).png"/></p>
 
 - Find contour of the Morphology image and fill it with white colour.
 - Find the biggest contour.
