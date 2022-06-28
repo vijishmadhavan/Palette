@@ -10,13 +10,13 @@
 
 <p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/download%20(4).png"/></p>
 
-- Morphology close method on the canny for closing small holes inside the foreground.
+- "Morphology close" method on the canny for closing small holes inside the foreground.
 
 <p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/download%20(5).png"/></p>
 
 - Find contour of the Morphology image and fill it with white colour.
 - Find the biggest contour.
-- Fill the contour area to avoid unwant noise and create final mask. **Or use pretrained models to generate mask(DeepLabv3)**
+- Fill the contour area to avoid unwant noise and create final mask. #### Or use pretrained models to generate mask(DeepLabv3)*
 
 <p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/download%20(3)-side.png"/></p>
 
