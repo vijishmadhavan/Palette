@@ -6,7 +6,7 @@
 - The code takes the object image as input.
 <p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/flying-peacock-fb1__700.jpeg"/></p>
 
-- Using canny detects edges
+- Using "canny" detects edges
 
 <p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/download%20(4).png"/></p>
 
