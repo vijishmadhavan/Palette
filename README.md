@@ -1,7 +1,7 @@
 # Palette
 
 ### Try in Colab
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Palette/blob/master/Palette_2.ipynb)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Palette/blob/master/Palette_3.ipynb)
 
 - The code takes the object image as input.
 <p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/flying-peacock-fb1__700.jpeg"/></p>
