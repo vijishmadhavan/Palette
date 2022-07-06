@@ -24,10 +24,20 @@
 
 <p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/download%20(10).png"/></p>
 
-
+# Colour Palette - KMEANS
 - Remove background get the object and generate color palette using KMEANS, find the centroids and plot.
 
 <p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/aaaa.jpg"/></p>
+
+# Colour Palette - Mosaic principle (Image Sampling)
+
+- ** Mosaic Principle ** :Replace the pixel value of the selected area in the image with a pixel value in the selected area .
+
+- Find all the dominant colours and plot the top-5 out of it.
+
+<p align="center"><img src="https://github.com/vijishmadhavan/Palette/blob/master/Images/aaaa.jpg"/></p>
+
+
 
 
 ## Acknowledgements
